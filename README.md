@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi, I'm Eliane! (pronounciation: El-ee-awn-knee) 👋
 
 <!--
 **elianemitchell/elianemitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
