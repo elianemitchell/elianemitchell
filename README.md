@@ -4,7 +4,11 @@ I graduated from Stanford University in 2019 where I studied philosophy and took
 
 🔭 Currently working on: an R project analyzing tweets of Pod Save America hosts, assisting a psychology post doc, contributing to the [Stanford Data & Mapping Society](http://dams.stanford.edu/)
 
-📚 Currently enrolled in: [Statistical Methods in Psychology](https://extension.utexas.edu/statistical-methods-psychology-14320) - UT Austin, [The Movement School](https://www.movementschool.us/nyc)
+📚 Currently enrolled in: [Statistical Methods in Psychology](https://extension.utexas.edu/statistical-methods-psychology-14320) at UT Austin, Field Organizing 201 at [The Movement School](https://www.movementschool.us/nyc)
+
+🌱 I’m currently learning: analyzing text, experimental methods
+
+💬 Ask me about: copyediting, 
 
 😄 Pronouns: she/her
 
