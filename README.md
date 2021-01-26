@@ -20,7 +20,7 @@ What I'm up to!
 
 🧠 **Abtstract things I love doing:** integrating my interests and experiences from disaparate disciplines into insights... and writing about them (see examples [here](https://www.stanforddaily.com/2018/03/06/the-reckless-wind-of-freedom-blows/), [here](https://docs.google.com/document/d/1FzUdN0MBfuuqKgSsU_kC2kEhaPHXRUINmbyVud8E68A/edit?usp=sharing), and [here](https://medium.com/@eliane_mitchell/the-black-body-as-a-site-of-colonization-and-decolonization-in-get-out-9a9850f65338))
 
-👯 **Active memberships:** 2021 RStudio Diversity Scholars, Black TIDES, R-Ladies NYC, Data Visualization Society, Data Ladies Alliance
+👯 **Active memberships:** 2021 RStudio Diversity Scholar, Black TIDES, R-Ladies NYC, Data Visualization Society, Data Ladies Alliance
 
 😄 **Pronouns:** she/her
 
