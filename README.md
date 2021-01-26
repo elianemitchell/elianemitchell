@@ -1,6 +1,8 @@
 ### Hi, I'm Eliane! 👋 (pronounciation: El-ee-awn-knee) 
 
-I graduated from Stanford University in 2019 where I studied philosophy and took significant coursework in journalism and psychology.  
+I graduated from Stanford University in 2019 where I studied philosophy and took significant coursework in journalism and psychology. I am currently seeking opportunities in political science and psychology. 
+
+
 
 <!--
 **elianemitchell/elianemitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
