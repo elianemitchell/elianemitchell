@@ -3,6 +3,8 @@
 <!--
 **elianemitchell/elianemitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I graduated from Stanford University in 2019 where I studied philosophy and took significant coursework in journalism and psychology.  
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
