@@ -1,6 +1,6 @@
 ### Hi, I'm Eliane! 👋 (pronounciation: El-ee-awn-knee) 
 
-I graduated from Stanford University in 2019 where I studied philosophy and took significant coursework in journalism and psychology. See my work here. 
+I graduated from Stanford University in 2019 where I studied philosophy and took significant coursework in journalism and psychology. Since graduating, I have completed a yearlong fellowship with the [American Voices Project](https://americanvoicesproject.org/), the largest qualitative study ever conducted in the US, and assisted three 2020 Democratic political campaigns. 
 
 🔭 Currently working on: an R project analyzing tweets of Pod Save America hosts, assisting a psychology post doc, contributing to the [Stanford Data & Mapping Society](http://dams.stanford.edu/)
 
