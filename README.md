@@ -1,4 +1,5 @@
-## Hi, I'm Eliane! 👋 (pronounciation: El-ee-awn-knee) 
+< p align = "center"> 
+## Hi, I'm Eliane! 👋 (pronounciation: El-ee-awn-knee) </p>
 
 I graduated from Stanford University in 2019, where I studied philosophy and took significant coursework in journalism and psychology. Since graduating, I have completed a yearlong fellowship with the [American Voices Project](https://americanvoicesproject.org/), the largest qualitative study ever conducted in the US, and assisted three 2020 Democratic political campaigns. I am now working on several projects related to politics and data, in addition to seeking full-time roles or internships in public opinion research. Please feel free to send feedback to this relatively new useR!
 
