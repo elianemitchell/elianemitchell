@@ -1,20 +1,11 @@
 ### Hi, I'm Eliane! 👋 (pronounciation: El-ee-awn-knee) 
 
-I graduated from Stanford University in 2019 where I studied philosophy and took significant coursework in journalism and psychology. See my work here!
+I graduated from Stanford University in 2019 where I studied philosophy and took significant coursework in journalism and psychology. See my work here. 
 
-Articles:
-![./] ( )
+🔭 Currently working on: an R project analyzing tweets of Pod Save America hosts, assisting a psychology post doc, contributing to the [Stanford Data & Mapping Society] (http://dams.stanford.edu/)
+📚 Currently enrolled in: [Statistical Methods in Psychology](https://extension.utexas.edu/statistical-methods-psychology-14320) - UT Austin, [The Movement School] (https://www.movementschool.us/nyc)
 
-Op-Ed Pieces:
-The Future and Heidegger: An op-ed piece how we can learn from Heidegger when processing our failures ![./] (https://www.stanforddaily.com/author/eliane-mitchell/)
-
-
-
-Twitter:
-![./] (https://twitter.com/elianemitchll)
-
-
-
+😄 Pronouns: she/her
 
 
 <!--
