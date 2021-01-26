@@ -12,11 +12,13 @@ What I'm up to!
 
 📚 **Currently enrolled in:** [Statistical Methods in Psychology](https://extension.utexas.edu/statistical-methods-psychology-14320) at UT Austin, Field Organizing 201 at [The Movement School](https://www.movementschool.us/nyc)
 
-🌱 **Currently learning:** sentiment analysis, experimental methods, cooking
+🌱 **Currently learning:** sentiment analysis, political psychology (reading one paper abstract per day!), cooking
 
 💬 **Ask me about:** qualitative research, [my favorite books](https://www.goodreads.com/user/show/58997622-eliane-mitchell), behavior change
 
-🍄 **Hobbies:** improv, running, reading at least one political psychology paper abstract per day
+🍄 **Hobbies:** improv, running, analyzing movies and social dynamics on The Bachelor 🌹
+
+👯 **Abstract things I love doing:** integrating my knowledge and experiences from disaparate disciplines
 
 😄 **Pronouns:** she/her
 
