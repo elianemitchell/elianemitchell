@@ -5,7 +5,7 @@ I graduated from Stanford University in 2019, where I studied philosophy and too
 ### A glimpse of my contributions to #TidyTuesday!
 ![/.](https://raw.githubusercontent.com/elianemitchell/elianemitchell/main/pg_photo.png)
 
-### What I'm up to:
+### What I'm up to!
 
 🔭 **Currently working on:** an R project analyzing tweets of Pod Save America hosts, apprenticing for a postdoctoral researcher, contributing to the [Stanford Data & Mapping Society](http://dams.stanford.edu/)
 
