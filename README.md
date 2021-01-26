@@ -2,7 +2,7 @@
 Hey there, I'm Eliane! 👋🏽 (pronounced: "El-ee-awn-knee") 
 </h2>
 
-I graduated from Stanford University in 2019, where I studied philosophy and took significant coursework in journalism and psychology. Since graduating, I have completed a yearlong fellowship with the [American Voices Project](https://americanvoicesproject.org/), the largest qualitative study ever conducted in the US, and assisted three 2020 Democratic political campaigns. I am now working on several projects related to politics and data, in addition to seeking full-time roles or internships in public opinion research. Please feel free to send feedback to this relatively new useR!
+I graduated from Stanford University in 2019, where I studied philosophy and took significant coursework in journalism and psychology. Since graduating, I have completed a yearlong fellowship with the [American Voices Project](https://americanvoicesproject.org/), the largest qualitative study ever conducted in the US, and assisted three 2020 Democratic political campaigns. I am now working on several projects related to politics and data, in addition to seeking full-time roles or internships in public opinion research. Please feel free to send feedback to this (read: me) relatively new useR!
 
 <h3 style="font-weight:normal" align="center"> 
 What I'm up to!
@@ -16,9 +16,9 @@ What I'm up to!
 
 💬 **Ask me about:** qualitative research, [my favorite books](https://www.goodreads.com/user/show/58997622-eliane-mitchell), behavior change
 
-🍄 **Hobbies:** improv, running, analyzing movies and social dynamics on The Bachelor 🌹
+🍄 **Hobbies:** improv, running, analyzing movies and social dynamics on dating shows (e.g. The Bachelor 🌹, Married at First Sight)
 
-👯 **Abstract things I love doing:** integrating my knowledge and experiences from disaparate disciplines
+👯 **Abstract things I love doing:** integrating my interests and experiences from disaparate disciplines into insights... and writing about them (see examples [here](https://www.stanforddaily.com/2018/03/06/the-reckless-wind-of-freedom-blows/), [here](https://www.stanforddaily.com/2018/03/16/the-future-and-heidegger/), and [here](https://medium.com/@eliane_mitchell/the-black-body-as-a-site-of-colonization-and-decolonization-in-get-out-9a9850f65338)
 
 😄 **Pronouns:** she/her
 
