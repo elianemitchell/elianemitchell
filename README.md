@@ -10,7 +10,7 @@ I graduated from Stanford University in 2019 where I studied philosophy and took
 
 💬 **Ask me about:** qualitative research, copyediting, [my favorite books](https://www.goodreads.com/user/show/58997622-eliane-mitchell), behavior change
 
-🍄 **Hobbies:** improv, running, reading a political psychology abstract once a day!
+🍄 **Hobbies:** improv, running, reading at least one political psychology paper abstract per day
 
 😄 **Pronouns:** she/her
 
