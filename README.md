@@ -1,8 +1,8 @@
-### Hi, I'm Eliane! 👋 (pronounciation: El-ee-awn-knee) 
+# Hi, I'm Eliane! 👋 (pronounciation: El-ee-awn-knee) 
 
 I graduated from Stanford University in 2019, where I studied philosophy and took significant coursework in journalism and psychology. Since graduating, I have completed a yearlong fellowship with the [American Voices Project](https://americanvoicesproject.org/), the largest qualitative study ever conducted in the US, and assisted three 2020 Democratic political campaigns. I am now working on several projects and  seeking full-time roles in public opinion research. Please feel free to send feedback to this relatively new useR!
 
-# A glimpse of some of my contributions to #TidyTuesday!
+### A glimpse of some of my contributions to #TidyTuesday!
 ![/.](https://raw.githubusercontent.com/elianemitchell/elianemitchell/main/pg_photo.png)
 
 
