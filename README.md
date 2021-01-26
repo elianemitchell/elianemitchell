@@ -1,6 +1,8 @@
 ### Hi, I'm Eliane! 👋 (pronounciation: El-ee-awn-knee) 
 
-I graduated from Stanford University in 2019, where I studied philosophy and took significant coursework in journalism and psychology. Since graduating, I have completed a yearlong fellowship with the [American Voices Project](https://americanvoicesproject.org/), the largest qualitative study ever conducted in the US, and assisted three 2020 Democratic political campaigns. I am now working on several projects and  seeking full-time roles in public opinion research. Cheers! 🥂
+I graduated from Stanford University in 2019, where I studied philosophy and took significant coursework in journalism and psychology. Since graduating, I have completed a yearlong fellowship with the [American Voices Project](https://americanvoicesproject.org/), the largest qualitative study ever conducted in the US, and assisted three 2020 Democratic political campaigns. I am now working on several projects and  seeking full-time roles in public opinion research. Please feel free to send feedback to this relatively new useR!
+
+![/.https://raw.githubusercontent.com/elianemitchell/elianemitchell/main/pg_photo.png]
 
 🔭 **Currently working on:** an R project analyzing tweets of Pod Save America hosts, apprenticing for a postdoctoral researcher, contributing to the [Stanford Data & Mapping Society](http://dams.stanford.edu/)
 
