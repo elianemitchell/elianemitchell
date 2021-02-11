@@ -2,7 +2,7 @@
 Hey there, I'm Eliane! 👋🏽 (pronounced: "El-ee-awn-knee") 
 </h2>
 
-<h4 alight="center">
+<h4 align="center">
   The TLDR: see my visualizations <a href="https://github.com/elianemitchell/TidyTuesday">here</a>!
   </h4>
 
