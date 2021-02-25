@@ -12,7 +12,7 @@ I graduated from Stanford University in 2019, where I studied philosophy and too
 What I'm up to!
   </h3>
 
-🔭 **Currently working on:** an R project analyzing tweets of Pod Save America hosts, apprenticing for a postdoctoral researcher, providing data consulting in partnership with the [Stanford Data & Mapping Society](http://dams.stanford.edu/)
+🔭 **Currently working on:** an R project analyzing tweets about The Bachelor Season 12, apprenticing for a postdoctoral researcher, providing data consulting in partnership with the [Stanford Data & Mapping Society](http://dams.stanford.edu/)
 
 📚 **Currently enrolled in:** [Statistical Methods in Psychology](https://extension.utexas.edu/statistical-methods-psychology-14320) at UT Austin, Building A Better Future & Field Organizing 201 at [The Movement School](https://www.movementschool.us/nyc), [Arena Academy: Data Bootcamp](https://arena.run/academy)
 
