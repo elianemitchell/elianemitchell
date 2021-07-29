@@ -6,7 +6,7 @@ Hey there, I'm Eliane! 👋🏽 (pronounced: "El-ee-awn-knee")
   tldr: see my visualizations <a href="https://github.com/elianemitchell/TidyTuesday">here</a>!
   </h4>
 
-I am a Research Analyst at YouGov, working on global tracking and ad hoc studies for the country's largest social media companies. In Spring 2019, I graduated from Stanford University, where I studied philosophy and took significant coursework in journalism and psychology. Since graduating, I have completed a yearlong fellowship with the [American Voices Project](https://americanvoicesproject.org/), the largest qualitative study ever conducted in the US, and assisted three 2020 Democratic campaigns. I am now working on several projects related to politics, psychology, and data. Please feel free to send feedback to this relatively new useR!
+I am a Research Analyst at YouGov, working on global tracking and ad hoc studies for the country's largest social media companies. In 2019 I graduated from Stanford University, where I studied philosophy and took significant coursework in journalism and psychology. Since graduating, I have completed a yearlong fellowship with the [American Voices Project](https://americanvoicesproject.org/), the largest qualitative study ever conducted in the US, and assisted three 2020 Democratic campaigns. I am now working on projects related to politics, psychology, and data. Please feel free to send feedback to this relatively new useR!
 
 <h3 style="font-weight:normal" align="center"> 
 What I'm up to!
