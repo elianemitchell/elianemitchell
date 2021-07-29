@@ -6,17 +6,15 @@ Hey there, I'm Eliane! 👋🏽 (pronounced: "El-ee-awn-knee")
   tldr: see my visualizations <a href="https://github.com/elianemitchell/TidyTuesday">here</a>!
   </h4>
 
-I graduated from Stanford University in 2019, where I studied philosophy and took significant coursework in journalism and psychology. Since graduating, I have completed a yearlong fellowship with the [American Voices Project](https://americanvoicesproject.org/), the largest qualitative study ever conducted in the US, and assisted three 2020 Democratic campaigns. I am now working on several projects related to politics and data, in addition to seeking full-time roles or internships in public opinion research. Please feel free to send feedback to this relatively new useR!
+I am a Research Analyst at YouGov, working on global tracking and ad hoc studies for the country's largest social media companies. In Spring 2019, I graduated from Stanford University, where I studied philosophy and took significant coursework in journalism and psychology. Since graduating, I have completed a yearlong fellowship with the [American Voices Project](https://americanvoicesproject.org/), the largest qualitative study ever conducted in the US, and assisted three 2020 Democratic campaigns. I am now working on several projects related to politics, psychology, and data. Please feel free to send feedback to this relatively new useR!
 
 <h3 style="font-weight:normal" align="center"> 
 What I'm up to!
   </h3>
 
-🔭 **Currently working on:** an R project analyzing tweets about The Bachelor Season 25, apprenticing for a postdoctoral researcher, providing data consulting in partnership with the [Stanford Data & Mapping Society](http://dams.stanford.edu/)
+🔭 **Currently working on:** Fielding a biweekly tracker at YouGov called the [YouGov Social Change Monitor](https://business.yougov.com/product/social-change). Founded by my incredible managers Lauren Benditt and Ann Comoglio, this survey tracks Americans' changing social attitudes 
 
-📚 **Currently enrolled in:** [Statistical Methods in Psychology](https://extension.utexas.edu/statistical-methods-psychology-14320) at UT Austin, Building A Better Future & Field Organizing 201 at [The Movement School](https://www.movementschool.us/nyc), [Arena Academy: Data Bootcamp](https://arena.run/academy)
-
-🌱 **Currently learning:** sentiment analysis, political psychology (reading one paper abstract per day!), cooking
+🌱 **Currently reading:** IT WAS ALL A LIE by Stuart Stevens
 
 💬 **Ask me about:** qualitative research, [my favorite books](https://www.goodreads.com/user/show/58997622-eliane-mitchell), behavior change
 
