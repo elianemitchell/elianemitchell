@@ -14,7 +14,7 @@ What I'm up to!
 
 🔭 **Currently working on:** Fielding a biweekly tracker at YouGov called the [YouGov Social Change Monitor](https://business.yougov.com/product/social-change). Founded by my incredible managers Lauren Benditt and Ann Comoglio, this survey tracks Americans' changing social attitudes 
 
-🌱 **Currently reading:** ROOM by Emma Donohuge
+🌱 **Currently reading:** ROOM by Emma Donoghue
 
 💬 **Ask me about:** qualitative research, [my favorite books](https://www.goodreads.com/user/show/58997622-eliane-mitchell), behavior change
 
